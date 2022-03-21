@@ -1,5 +1,5 @@
 public class Fizzbuzz { 
-    
+    //small change as a demo
     /**
 	 * Process a number
 	 * @param num a number
